@@ -14,4 +14,3 @@
 //nome: "Jubo", 
 //	idade: 3, 
 //	raca: "SRD"
-
